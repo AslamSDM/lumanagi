@@ -1,2 +1,4 @@
 export const LumanagiPredictionsV3BTC =
-  "0xC45864b165f55AdedfC9d98aD379d1C74Be69a2e";
+  "0xad9eBfE7E2FD524FD10b9A8b832098E85a01Bf45";
+export const LumanagiPredictionsV3ETH =
+  "0x8aF32C3aB156ecdeb51eDBeC0Dce51EdD515375A";
